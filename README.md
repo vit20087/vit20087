@@ -17,8 +17,7 @@ I am a motivated QA Engineer with six months of experience in software testing. 
 ## Certifications & Courses
 - **EPAM Systems:** AQA with Java
 - **Sololearn:** Java Intermediate
-- **Sololearn:** Java Basics
-- **JavaRush:** Java
+- **Sololearn:** Java Basics 
 
 ## Experience
 - **QA Engineer (6 months)**  
