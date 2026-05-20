@@ -77,14 +77,14 @@ I'm a motivated QA Engineer with experience in software testing, AI automation, 
 ### 🔧 Automation Testing Project
 > Automated testing framework built with **Java**, **Selenium WebDriver**, and **Maven**.
 
-[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)](https://github.com/vit20087)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)]((https://github.com/vit20087?tab=repositories))
 
 ---
 
 ### 📝 Manual Testing Project
 > Includes test cases, bug reports, and test documentation for a web application.
 
-[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)](https://github.com/vit20087)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github)](https://github.com/vit20087?tab=repositories)
 
 ---
 
