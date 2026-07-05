@@ -103,4 +103,4 @@ I'm a motivated QA Engineer with experience in software testing, AI automation, 
 
 ---
 
-*Open to new opportunities in QA Engineering and AI Automation!* 🚀
+*Open to new opportunities in QA Engineering !* 🚀
