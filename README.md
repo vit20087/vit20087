@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vitaliy Padus
 
-### QA Engineer | Manual & Automation Testing | AI Automation Enthusiast
+### QA Engineer | Manual & Automation Testing 
 
 I'm a motivated QA Engineer with experience in software testing, AI automation, and content management. Passionate about ensuring software quality, I specialize in both manual and automated testing, and I actively explore AI-powered automation tools.
 
